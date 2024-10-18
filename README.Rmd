@@ -7,3 +7,13 @@ output: github_document
 # My first commit
 
 Here is some text that constitutes my first commit in my first repo.
+
+# git init: to create a .git directory
+# git status: to see the status of the files that git is keeping track of (current repository status)
+# git add: add file to start git to keep track on
+# git commit: to take a snapshot of the file directory
+# -m: to add a message to the commit
+
+# My second commit
+
+Here is more text will be added in my second commit.
